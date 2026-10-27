@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Structures, work, and learning**
 
-- 💬 Ask me about **I am a computer science student, and I intend to further expand my knowledge outside of Brazil.**
+- 💬 Ask me about **I am a computer engineering student, and I intend to further expand my knowledge outside of Brazil.**
 
 - 📫 How to reach me **hv657510@gmail.com**
 
