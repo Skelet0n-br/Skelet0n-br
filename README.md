@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=265&color=blue&section=header&reversal=false&text=Hugo+Victor&textBg=false&fontColor=FFFF&fontSize=45&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&width=435&lines=Keep+moving+forward" alt="Typing SVG" /></a>
+<a aling= 'center' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&width=435&lines=Keep+moving+forward" alt="Typing SVG" /></a>
 - 🔭 I am currently studying **Cesupa**
 
 - 🌱 I’m currently learning **Structures, work, and learning**
