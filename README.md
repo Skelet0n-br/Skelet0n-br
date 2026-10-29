@@ -3,6 +3,10 @@
 </p>
 
 <a aling= 'center' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&width=435&lines=Keep+moving+forward" alt="Typing SVG" /></a>
+
+![Descrição do GIF](https://giphy.com/gifs/darth-vader-dancing-star-wars-1HPUSulSOHDpe)
+
+
 - 🔭 I am currently studying **Cesupa**
 
 - 🌱 I’m currently learning **Structures, work, and learning**
