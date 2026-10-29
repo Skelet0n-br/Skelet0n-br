@@ -1,5 +1,5 @@
 <p aling= 'center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=321&color=090F36&section=header&reversal=false&text=Hugo+Victor&textBg=false&fontColor=%23FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&animation=scaleIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=265&color=blue&section=header&reversal=false&text=Hugo+Victor&textBg=false&fontColor=FFFF&fontSize=45&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
 </p>
 - 🔭 I am currently studying **Cesupa**
 
