@@ -5,9 +5,7 @@
 <a aling= 'center' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&width=435&lines=Keep+moving+forward" alt="Typing SVG" /></a>
 
 <p align="center">
- ![Animação]<img width="500" height="281" alt="transferir (2)" src="https://github.com/user-attachments/assets/43b71a99-d88e-494b-937b-7e0cd5411c48" />
-
-
+ <img width="500" height="281" alt="transferir (2)" src="https://github.com/user-attachments/assets/43b71a99-d88e-494b-937b-7e0cd5411c48" />
 </p>
 
 - 🔭 I am currently studying **Cesupa**
